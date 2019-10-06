@@ -11,7 +11,7 @@ published: true
 - Customer Care Manager for [Blue Sky eLearn](https://www.blueskyelearn.com).
 - Student of iOS Development at [Lambda School](https://www.lambdaschool.com).
 
-
+![Roscoe and me]({{site.baseurl}}/img/RoscoeAndMe.png)
 
 When I was in first grade, my teacher had the class fill out a survey. One of the questions was, of course, "What do you want to be when you grow up?" When I found it again a few years back, I had to smile at my answer. 
 
@@ -23,6 +23,6 @@ My path since then hasn't been the most traditional. I taught myself a lot when 
 
 I believe that software changes lives, both in the small moments when we take a quick glance at our phones or browse the web, and in long, elegant arcs that span years and decades. My goal is to be present in those moments and to have a positive influence on those arcs; to take the beauty that is code and logic and use it to create smiles, calm, ease, confidence, and health.
 
-
+![I'm, like, always covered in pets]({{site.baseurl}}/img/IMG_7238.jpeg)
 
 Maybe that seems a bit optimistic, but it happens every day. And that's what I want to be a part of.
